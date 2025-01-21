@@ -1,4 +1,4 @@
-# 👋 Pozdrav! Ja sam Luka Flegar, student računarstva iz Hrvatske. 
+# 👋 Pozdrav! Ja sam Luka Flegar, student preddiplomskog studija računarstva 
 
 [![GitHub followers](https://img.shields.io/github/followers/lukaflegar?label=Follow&style=social)](https://github.com/lukaflegar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vaš-linkedin)
