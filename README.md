@@ -5,11 +5,11 @@
 
 ---
 
-### 💻 O meni
+### 💻 ABOUT ME
 
 **Student računarstva** na [FESB-u].
 
-### 🚀 Vještine
+### 🚀 SKILLS
 
 - **Programski jezici:** C, C++, SQL
 - **Razvoj aplikacija:** Figma
@@ -17,21 +17,21 @@
 - **Alati i tehnologije:** Git, pgAdmin4
 - **Ostalo:** Rješavanje problema, Timska suradnja
 
-### 📊 GitHub Statistike
+### 📊 GitHub STATS
 
 ![Luka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukaflegar&show_icons=true&theme=radical)
 
 
-### 🎯 Ciljevi
+### 🎯 GOALS
 
-- Graditi znanje na području računarstva te diplomirati na preddiplomskom studiju.
+- Proširiti svoje znanje u području računarstva i uspješno diplomirati preddiplomski studij.
 
 
-### 📫 Kontakt!
+### 📫 CONTACT!
 
 - [LinkedIn](https://www.linkedin.com/in/lukaflegar/)
 - [Email](mailto:lflegar0406@gmail.com)
 
-Hvala što ste posjetili moj profil! 😊
+
 
 
