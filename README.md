@@ -22,5 +22,7 @@
 - [Email](mailto:lflegar0406@gmail.com)
 
 
-
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)
 
