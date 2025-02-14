@@ -1,4 +1,4 @@
-# 👋 Pozdrav! Ja sam Luka Flegar, student preddiplomskog studija računarstva 
+# 👋 Hello! I'm Luka
 
 [![GitHub followers](https://img.shields.io/github/followers/lukaflegar?label=Follow&style=social)](https://github.com/lukaflegar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lukaflegar/)
@@ -6,26 +6,15 @@
 ---
 
 ### 💻 ABOUT ME
-
-**Student računarstva** na [FESB-u].
+**Computer science student**
+**Student preddiplomskog studija računarstva** na [FESB-u].
 
 ### 🚀 SKILLS
 
-- **Programski jezici:** C, C++, SQL
-- **Razvoj aplikacija:** Figma
-- **Baze podataka:** PostgreSQL, MySQL
-- **Alati i tehnologije:** Git, pgAdmin4
-- **Ostalo:** Rješavanje problema, Timska suradnja
-
-### 📊 GitHub STATS
-
-![Luka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukaflegar&show_icons=true&theme=radical)
-
-
-### 🎯 GOALS
-
-- Proširiti svoje znanje u području računarstva i uspješno diplomirati preddiplomski studij.
-
+- **Programming:** C, C++, SQL
+- **Design tools:** Figma
+- **Databases:** PostgreSQL, MySQL
+- **Tools & Technologies:** Git, pgAdmin4
 
 ### 📫 CONTACT!
 
