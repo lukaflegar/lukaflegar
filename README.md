@@ -13,7 +13,7 @@
 
 - **Programming:**
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)
-- **Design tools:** Figma ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- **Design tools:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 - **Databases:** PostgreSQL, MySQL
 - **Tools & Technologies:** Git, pgAdmin4
 
@@ -22,8 +22,4 @@
 - [LinkedIn](https://www.linkedin.com/in/lukaflegar/)
 - [Email](mailto:lflegar0406@gmail.com)
 
-
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)
 
