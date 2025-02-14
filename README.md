@@ -6,8 +6,8 @@
 ---
 
 ### 💻 ABOUT ME
-**Computer science student**
-**Student preddiplomskog studija računarstva** na [FESB-u].
+- **Computer science student**
+- **Student preddiplomskog studija računarstva** na [FESB-u].
 
 ### 🚀 SKILLS
 
