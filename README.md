@@ -13,10 +13,10 @@
 
 - **Programming:**
 ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)
-- **Web development:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **Web development:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) (basics)
 - **Design tools:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 - **Databases:** PostgreSQL(pgAdmin4)
-- **Tools & Technologies:** Git, Jira, UML
+- **Tools & Technologies:** Git, Jira, UML, Unity, Docker
 
 ### 📫 CONTACT!
 
